@@ -185,6 +185,12 @@ a:not([href]):hover {
   text-decoration: none;
 }
 
+#preto{
+  color: #6c757d;
+  text-decoration: none;
+  background-color: transparent;
+}
+
 pre,
 code,
 kbd,
