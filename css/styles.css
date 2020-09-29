@@ -81,6 +81,17 @@ body {
   outline: 0 !important;
 }
 
+#primSubtitulo{
+  font-style: italic;
+}
+
+#profile{
+  width: 70%;
+  height: auto;
+  border-radius: 7%;
+
+}
+
 hr {
   box-sizing: content-box;
   height: 0;
