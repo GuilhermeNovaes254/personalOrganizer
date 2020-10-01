@@ -91,6 +91,10 @@ body {
   border-radius: 7%;
 
 }
+#newsletter{
+  background-color: #6C757D;
+  color: white;
+}
 
 hr {
   box-sizing: content-box;
@@ -10032,7 +10036,7 @@ html {
 hr.divider {
   max-width: 3.25rem;
   border-width: 0.2rem;
-  border-color: #38cbc8;
+  border-color: #e9ecef;
 }
 
 hr.light {
